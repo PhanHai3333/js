@@ -1,0 +1,1 @@
+prompt ('Xác minh độ tuổi của bạn')
